@@ -14,11 +14,11 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Jekyll Bootstrap
-tagline: Site Tagline
+tagline: 记录时间的脚印
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : zuck
+  email : zuckchen@gmail.com
+  github : amazingmanthere
   twitter : username
   feedburner : feedname
 

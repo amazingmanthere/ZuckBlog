@@ -1,8 +1,8 @@
 ---
 layout: post
-category : lessons
-tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+category : windows phone
+tagline: "Zuck Blog"
+tags : [windows phone, fiddler]
 ---
 {% include JB/setup %}
 
