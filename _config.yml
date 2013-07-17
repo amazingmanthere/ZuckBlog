@@ -3,7 +3,7 @@
 auto: true
 
 markdown: rdiscount
-paginate: 6
+paginate: 3
 permalink: /:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
