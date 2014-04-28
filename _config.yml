@@ -1,7 +1,7 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 auto: true
-
+encoding: utf-8
 markdown: rdiscount
 paginate: 3
 permalink: /:title 
