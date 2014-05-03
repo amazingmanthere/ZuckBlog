@@ -200,3 +200,30 @@ ul.posts {
   #related h2 {
     margin-bottom: 1em;
   }
+  
+  /*Custom CSS*/
+  /*------------------------------------------------------*/
+  body, button, input, select, textarea {
+	font-family: "Microsoft YaHei" !important;
+  }
+  
+  .main-article-contant p {
+	font-size: 16px;
+	color: #22272A;
+	margin-bottom: 20px;
+   }
+
+.main-article-title, .main-article-title a {
+    font-size: 25px;
+    line-height: 46px;
+    color: #000;
+    text-decoration: none;
+}
+.main-article-title a:hover {
+    color: #0088cc;
+}
+
+.post{
+	margin-bottom: 50px;
+}
+  /*------------------------------------------------------*/

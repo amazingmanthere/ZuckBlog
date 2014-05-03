@@ -7,9 +7,10 @@ tagline: 记录时间的脚印
 
 <ul class="posts">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ BASE_PATH }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
-      <p>{{ post.content }}</p>
+    <li class="post">
+      <h3 class="main-article-title"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+      <p>{{ post.date | date_to_string }}</p>
+	  <div class="main-article-contant">{{ post.content }}</div>
     </li>
   {% endfor %}
 </ul>
