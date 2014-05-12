@@ -211,15 +211,15 @@ body, button, input, select, textarea {
 .main-article-content {
   height: 200px;
   overflow:hidden;
-}*/
+  }*/
 
-.main-article-content p {
-	font-size: 16px;
-	color: #22272A;
-	margin-bottom: 20px;
-}
+  .main-article-content p {
+   font-size: 16px;
+   color: #22272A;
+   margin-bottom: 20px;
+ }
 
-.main-article-title, .main-article-title a {
+ .main-article-title, .main-article-title a {
   font-size: 25px;
   line-height: 46px;
   color: #000;
@@ -232,4 +232,9 @@ body, button, input, select, textarea {
 .post{
 	margin-bottom: 50px;
 }
-  /*------------------------------------------------------*/
+
+h2{
+  border-bottom: 1px solid silver;
+  padding-bottom: 5px
+}
+/*------------------------------------------------------*/}
