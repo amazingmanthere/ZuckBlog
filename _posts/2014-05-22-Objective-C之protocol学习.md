@@ -1,3 +1,11 @@
+---
+layout: post
+category : github
+tagline: "Zuck Blog"
+tags : [Objective-C]
+---
+{% include JB/setup %}
+
 # Objective-C之protocol学习
 
 ## protocol简介
