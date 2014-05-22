@@ -2,7 +2,7 @@
 layout: post
 category : github
 tagline: "Zuck Blog"
-tags : [Objective-C]
+tags : [objective-c]
 ---
 {% include JB/setup %}
 
