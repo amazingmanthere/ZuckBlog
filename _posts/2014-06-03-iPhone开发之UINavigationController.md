@@ -1,3 +1,11 @@
+---
+layout: post
+category : github
+tagline: "Zuck Blog"
+tags : [objective-c, ios]
+---
+{% include JB/setup %}
+
 # iPhone开发之UINavigationController
 
 ## UINavigationController简介
