@@ -31,7 +31,10 @@ UINavigatinoController通常作为父类使用，其它类通过继承UINavigati
 
 #### 添加视图控制器到栈顶
 
-UINavigatinoController调用方法`pushViewController:animated: `将视图控制器添加到栈顶。
+UINavigatinoController调用方法`pushViewController:animated: `将视图控制器添加到栈顶。  
+PS:如果传递进来的视图控制器也是UINavigatinoController对象，运行时会报以下错误：   
+
+	*** Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: 'Pushing a navigation controller is not supported'
 
 #### 移除栈顶视图控制器
 
