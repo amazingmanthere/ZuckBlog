@@ -1,4 +1,4 @@
 ZuckBlog
 ========
 
-My personal technology blogs build by [jekyll](http://jekyllrb.com/) which is a open source program.
+My personal technology blogs build by [Jekyll-Bootstrap](http://jekyllbootstrap.com/) which is a full blog scaffold for Jekyll based blogs. 
